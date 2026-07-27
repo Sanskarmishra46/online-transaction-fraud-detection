@@ -106,3 +106,16 @@ Fraud Detection Insights
 ```
 
 ---
+## 🤖 Models Used
+
+The project compares multiple Machine Learning and Deep Learning algorithms for online transaction fraud detection.
+
+| Model | Category | Purpose |
+|--------|----------|---------|
+| Decision Tree | Machine Learning | Baseline interpretable classifier |
+| Random Forest | Machine Learning | Ensemble learning for improved prediction accuracy |
+| Naive Bayes | Machine Learning | Probabilistic classification model |
+| Convolutional Neural Network (CNN) | Deep Learning | Learns complex feature representations |
+| Long Short-Term Memory (LSTM) | Deep Learning | Captures sequential patterns in transaction data |
+
+---
