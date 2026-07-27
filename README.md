@@ -73,3 +73,36 @@ The project utilizes a balanced online transaction fraud detection dataset for b
 > **Note:** The original dataset was obtained from Kaggle and further processed to create a balanced dataset for model comparison.
 
 ---
+## 🔄 Project Workflow
+
+```text
+Raw Dataset
+      │
+      ▼
+Data Cleaning & Preprocessing
+      │
+      ▼
+Feature Scaling (StandardScaler)
+      │
+      ▼
+Train-Test Split
+      │
+      ▼
+Machine Learning Models
+(Decision Tree, Random Forest, Naive Bayes)
+      │
+      ▼
+Deep Learning Models
+(CNN, LSTM)
+      │
+      ▼
+Performance Evaluation
+      │
+      ▼
+Model Comparison
+      │
+      ▼
+Fraud Detection Insights
+```
+
+---
