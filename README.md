@@ -180,3 +180,15 @@ pip install -r requirements.txt
 5. Review the generated evaluation metrics, ROC curves, confusion matrices, and model comparison results.
 
 ---
+## 🔮 Future Improvements
+
+Future enhancements for this project include:
+
+- Hyperparameter optimization for improved model performance.
+- Deployment using Flask or FastAPI.
+- Real-time fraud detection pipeline.
+- Explainable AI (XAI) techniques for model interpretability.
+- Integration with cloud-based machine learning platforms.
+- Evaluation on larger real-world transaction datasets.
+
+---
