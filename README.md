@@ -119,3 +119,19 @@ The project compares multiple Machine Learning and Deep Learning algorithms for 
 | Long Short-Term Memory (LSTM) | Deep Learning | Captures sequential patterns in transaction data |
 
 ---
+## 📈 Performance Evaluation
+
+To ensure a comprehensive comparison, each model was evaluated using multiple classification metrics rather than relying solely on accuracy.
+
+### Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
+- Confusion Matrix
+
+These metrics provide a balanced assessment of fraud detection performance by measuring overall prediction quality, false positives, false negatives, and the model's ability to distinguish between legitimate and fraudulent transactions.
+
+---
