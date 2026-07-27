@@ -22,3 +22,20 @@ This project aims to:
 - Identify the most effective model for online transaction fraud detection.
 
 ---
+## 📂 Repository Structure
+
+```text
+online-transaction-fraud-detection/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── notebooks/
+│   └── Online_Transaction_Fraud_Detection.ipynb
+├── dataset/
+│   └── README.md
+└── images/
+```
+
+---
