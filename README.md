@@ -39,3 +39,16 @@ online-transaction-fraud-detection/
 ```
 
 ---
+## 🛠️ Technologies Used
+
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Scikit-learn |
+| Deep Learning | TensorFlow, Keras |
+| Data Visualization | Matplotlib, Seaborn |
+| Development Environment | Jupyter Notebook (Google Colab) |
+| Version Control | Git, GitHub |
+
+---
