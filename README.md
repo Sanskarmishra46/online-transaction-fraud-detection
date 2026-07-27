@@ -135,3 +135,18 @@ To ensure a comprehensive comparison, each model was evaluated using multiple cl
 These metrics provide a balanced assessment of fraud detection performance by measuring overall prediction quality, false positives, false negatives, and the model's ability to distinguish between legitimate and fraudulent transactions.
 
 ---
+## 📊 Results & Key Findings
+
+The comparative analysis demonstrated clear differences in the performance of the implemented Machine Learning and Deep Learning models.
+
+### Key Observations
+
+- Random Forest achieved the strongest overall performance with excellent classification capability.
+- Decision Tree also produced high predictive performance on the processed dataset.
+- Gaussian Naive Bayes provided a fast baseline model with comparatively lower performance.
+- CNN and LSTM were implemented to evaluate Deep Learning approaches alongside traditional Machine Learning algorithms.
+- Multiple evaluation metrics, including Accuracy, Precision, Recall, F1-Score, ROC-AUC Score, and Confusion Matrices, were used to compare model performance comprehensively.
+
+The project demonstrates the importance of evaluating multiple algorithms rather than relying on a single model for fraud detection problems.
+
+---
