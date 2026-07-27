@@ -52,3 +52,24 @@ online-transaction-fraud-detection/
 | Version Control | Git, GitHub |
 
 ---
+## 📊 Dataset
+
+The project utilizes a balanced online transaction fraud detection dataset for binary classification. The dataset was preprocessed to remove missing values and standardize numerical features before model training.
+
+### Target Variable
+
+| Class | Description |
+|-------|-------------|
+| 0 | Legitimate Transaction |
+| 1 | Fraudulent Transaction |
+
+### Data Preprocessing
+
+- Removed missing values
+- Feature scaling using StandardScaler
+- Data reshaped for CNN and LSTM models
+- Train-test split performed before model training
+
+> **Note:** The original dataset was obtained from Kaggle and further processed to create a balanced dataset for model comparison.
+
+---
