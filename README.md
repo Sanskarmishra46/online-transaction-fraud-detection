@@ -192,3 +192,12 @@ Future enhancements for this project include:
 - Evaluation on larger real-world transaction datasets.
 
 ---
+## 👨‍💻 Author
+
+**Sanskar Mishra**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
+
+GitHub: https://github.com/Sanskarmishra46
+
+---
