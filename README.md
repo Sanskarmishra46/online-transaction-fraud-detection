@@ -150,3 +150,24 @@ The comparative analysis demonstrated clear differences in the performance of th
 The project demonstrates the importance of evaluating multiple algorithms rather than relying on a single model for fraud detection problems.
 
 ---
+## 🚀 Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Sanskarmishra46/online-transaction-fraud-detection.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd online-transaction-fraud-detection
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
