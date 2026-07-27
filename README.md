@@ -171,3 +171,12 @@ pip install -r requirements.txt
 ```
 
 ---
+## ▶️ How to Run
+
+1. Open the Jupyter Notebook using Jupyter Notebook or Google Colab.
+2. Install the required Python libraries.
+3. Load the balanced fraud detection dataset.
+4. Execute all notebook cells sequentially.
+5. Review the generated evaluation metrics, ROC curves, confusion matrices, and model comparison results.
+
+---
